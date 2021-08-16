@@ -153,11 +153,11 @@ bottom: 20px;
 }
 .text-3 {
 	display: flex;
-	margin-left: 100px;
+	margin-left: 130px;
 }
 .file {
-	height: 60px;
-	width: 60px;
+	height: auto;
+	width: 50px;
 	border-radius: 15px;
 	margin-left: 8px;
 }
@@ -259,5 +259,8 @@ box-shadow: none;
 	}
 	.element1 {
 		left: -250px
+	}
+	.text-3 {
+		margin-right: 10px;
 	}
 }
